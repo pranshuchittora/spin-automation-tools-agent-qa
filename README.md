@@ -76,6 +76,7 @@
 - [Browserbase](https://browserbase.com) — Cloud browser infrastructure
 - [Apify](https://apify.com) — Web scraping and automation platform
 - [Bright Data](https://brightdata.com) — Web data collection
+- [Agent QA](https://github.com/vostride/agent-qa) — Source-available natural-language browser testing with reusable execution memory, UI recovery, and CLI/MCP interfaces
 
 ## API Automation
 
